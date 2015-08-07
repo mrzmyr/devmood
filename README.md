@@ -1,0 +1,1 @@
+<img src="https://cdn.rawgit.com/mrzmyr/devmood/gh-pages/images/logo.svg" width="50px">
